@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676559777051",
+    "project_id": "talkmore-7fb1e",
+    "storage_bucket": "talkmore-7fb1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676559777051:android:d4745cf336110cf0daf7be",
+        "android_client_info": {
+          "package_name": "com.dk.talkmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676559777051-3ph91n5pohn7nsdtnhnajbbvh9fo1ui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyX1tUBHXjZ0VFX988kpLpGm_LiQqvCXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676559777051-3ph91n5pohn7nsdtnhnajbbvh9fo1ui1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
