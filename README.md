@@ -7,4 +7,6 @@
 - App has LogOut Facilities.
 
 ## Screen
+![otp_1](https://user-images.githubusercontent.com/89833644/152638145-ffaff06f-9b84-48ff-8b34-856344143c9a.jpg)
+![otp_2](https://user-images.githubusercontent.com/89833644/152638152-e2f3cf37-77c0-430b-9b2a-d1fe9164028b.jpg)
 
